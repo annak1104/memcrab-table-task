@@ -1,0 +1,1 @@
+table{width:100%;border-collapse:collapse;margin-top:20px}th,td{border:1px solid #ccc;padding:12px;text-align:center}th{background-color:#1a1a1a;color:#fff;font-weight:600}button{margin-top:10px}td button{width:30%;background-color:#fff;color:#fff;border:none;border-radius:8px;cursor:pointer;padding:8px;transition:background-color .3s}td button:hover{background-color:#f9c5c5}
