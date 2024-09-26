@@ -1,21 +1,32 @@
-# React + TypeScript + Vite
+# Memcrab Test Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the repository for the **Memcrab Test Task** project, built using React, Vite, TypeScript, and deployed using GitHub Pages. This README provides setup instructions, available scripts, and important details regarding the project.
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+## Table of Contents
 
-## Deploy Your Own
+- [Getting Started](#getting-started)
+- [Available Scripts](#available-scripts)
+- [Dependencies](#dependencies)
+- [Development Practices](#development-practices)
+- [Deployment](#deployment)
 
-Deploy your own Vite project with Vercel.
+## Getting Started
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/vite-react&template=vite-react)
+To get started with this project, ensure that you have [Node.js](https://nodejs.org/) and [pnpm](https://pnpm.io/) installed on your machine.
 
-_Live Example: https://vite-react-example.vercel.app_
+### Steps:
 
-### Deploying From Your Terminal
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/annak1104/memcrab-table.git
+2. **Navigate to the project directory**:
+   ```bash
+   cd memcrab-table
 
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
+3. **Install dependencies: Install all required dependencies using pnpm**:
+   ```bash
+   npm install
 
-```shell
-$ vercel
-```
+4.**Run the development server: Start the Vite development server**:
+   ```bash
+   npm run dev
